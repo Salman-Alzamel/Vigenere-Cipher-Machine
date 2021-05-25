@@ -71,5 +71,22 @@ Then the VC-Machine will ask you whether you want to Encrypt or Decrypt your mes
             - Finally you will find your decrypted message file in the same folder as the VC-Machine.
         }
 
+# Key Length Finder
+This program will help you find the key length by using the Index of Occurrence method.
+You just need to enter the file name in (LINE 13) in the code and then run the code.
+It will ask you to enter the key length range the start of the range must be smaller than the end of the range or it will show an error message.
+
+# Frequency of Occurrence
+This program will help you analyze the occurrence of each letter in the encrypted message.
+You just need to enter the file name in (LINE 13) in the code and then run the code.
+It will print each character with the number of occurrences and the position of the character in the used alphabet.
+You can change the used alphabet in (LINE 21) in the code.
+Such as :
+- [ 12  |  'A'  |  0 ]
+- [ 7  |  'B'  |  1 ]
+- [ 12  |  'C'  |  2 ]
+- [ 10  |  'D'  |  3 ]
+
+
 ## Contacts info
 Salman Alzamel: Salman-m-z@outlook.sa
