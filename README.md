@@ -79,7 +79,7 @@ It will ask you to enter the key length range the start of the range must be sma
 # Frequency of Occurrence
 This program will help you analyze the occurrence of each letter in the encrypted message.
 You just need to enter the file name in (LINE 13) in the code and then run the code.
-It will print each character with the number of occurrences and the position of the character in the used alphabet.
+It will print each character with the number of occurrences (in the left side) and the position (in the right side) of the character in the used alphabet.
 You can change the used alphabet in (LINE 21) in the code.
 Such as :
 - [ 12  |  'A'  |  0 ]
